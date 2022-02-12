@@ -1,5 +1,5 @@
 # Newsletter Example
-<h1>My first HTML email/newsletter ;)</h1>
+<h1>My first responsive HTML email/newsletter ;)</h1>
 
 <h2> Build With<h2>
 <ul>
