@@ -1,5 +1,5 @@
 # Newsletter Example
-<h1>Exemplo de um email marketing/newsletter</h1>
+<h1>My first HTML email/newsletter ;)</h1>
 
 <h2> Build With<h2>
 <ul>
