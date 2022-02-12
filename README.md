@@ -1,3 +1,13 @@
-# exemplo-newsletter
-<h3>Aqui resolvi fazer um exemplo de newsletter que também pode ser estruturado como email Marketing. <br>
-Nesse exemplo vou usar meus filmes, séries e animes favoritos :) </h3
+# Newsletter Example
+<h1>Exemplo de um email marketing/newsletter</h1>
+
+<h2> Build With<h2>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+<h3>Tools used<h3>
+<ul>
+    <li>Bulletproof email buttons (https://buttons.cm)</li>
+    <li>Premailer(https://premailer.io/)</li>
