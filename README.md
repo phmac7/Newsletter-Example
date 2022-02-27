@@ -1,7 +1,7 @@
 # Newsletter Example
 <h1>My first responsive HTML email/newsletter ;)</h1>
 
-<h2> Build With<h2>
+<h2> Built With<h2>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
